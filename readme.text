@@ -1,0 +1,23 @@
+How to run the code:
+
+Step 1
+Unzip the folder and open in VS Code
+
+Step 2
+Install Android Studio, Node 
+Install Expo CLI by running the following command in command prompt:
+
+npm install -g expo-cli
+
+Step 3
+Set up Android Studio and Android SDK
+
+Step 4
+Run 'npm install' in the terminal.
+
+
+Step 5
+Start the Expo development server by running the following command:
+
+npx expo start
+
